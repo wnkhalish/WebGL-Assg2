@@ -1,0 +1,11 @@
+﻿  Assignment 2 _B17CS3033_A17CS0212.cpp
+C:\Users\Asus\source\repos\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212.cpp(49,54): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Asus\source\repos\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212.cpp(58,54): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Asus\source\repos\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212.cpp(986,10): warning C4101: 'ch': unreferenced local variable
+C:\Users\Asus\source\repos\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212.cpp(1007,26): warning C4101: 'D': unreferenced local variable
+C:\Users\Asus\source\repos\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212.cpp(1006,26): warning C4101: 'd': unreferenced local variable
+C:\Users\Asus\source\repos\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212.cpp(1059,28): warning C4101: 'choicePyramid': unreferenced local variable
+C:\Users\Asus\source\repos\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212.cpp(1059,55): warning C4101: 'choiceIco': unreferenced local variable
+C:\Users\Asus\source\repos\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212.cpp(1059,43): warning C4101: 'choiceCube': unreferenced local variable
+C:\Users\Asus\source\repos\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212\Assignment 2 _B17CS3033_A17CS0212.cpp(1059,17): warning C4101: 'choiceNut': unreferenced local variable
+  Assignment 2 _B17CS3033_A17CS0212.vcxproj -> C:\Users\Asus\source\repos\Assignment 2 _B17CS3033_A17CS0212\Debug\Assignment 2 _B17CS3033_A17CS0212.exe
